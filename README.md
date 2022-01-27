@@ -1,65 +1,49 @@
-![image](https://user-images.githubusercontent.com/60597290/137976263-5f9074b8-f171-4f69-8283-326ed82f0e66.png)
-
+<body>
+  <div align="center">
+    <h1> Hi there, I'm Muhammad Ammar👋<a href="#"></h1>
+  </div>
 <p align="center">
-  <a href="https://github.com/rashidwassan?tab=followers">
-    <img src="https://img.shields.io/github/followers/rashidwassan?label=GitHub&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
-  </a>
-  <a href="http://twitter.com/rashidwassaan">
-    <img src="https://img.shields.io/twitter/follow/rashidwassaan?label=Twitter&logo=twitter&style=for-the-badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/rashidwassan/" target="_blank">
-  <img alt="RashidWassan | LinkedIN"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-  </a>
-  <a href="https://stackoverflow.com/users/15750590/rashid-wassan" target="_blank">
-  <img alt="Rashid Wassan | StackOverFlow"  src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
-</a>
-<a href="https://www.facebook.com/rashidwassann" target="_blank">
-  <img  alt="@Rashid Wassan | Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/rashidwassaan" target="_blank">
-  <img alt="Rashid Wassan | Instagram"  src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://github.com/Muhammadammar13"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Web+Developer;DS%20|%20AI%20|%20ML|%20NLP|%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20Technology&center=true&width=500&height=50"></a>
+  
+</p>
+<h1 align="center"> Connect with me: </h1>
+<p align="center">
+<!-- <a href="https://google.qwiklabs.com/public_profiles/dff7937b-6235-4aab-8242-6a42d03d7aa5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@2.17.0/icons/qwiklabs.svg" alt="SaadFareed" height="30" width="40" /></a>
+<a href="https://codepen.io/saadfareed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="SaadFareed" height="30" width="40" /></a>
+<a href="https://leetcode.com/Saadfareed/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@2.17.0/icons/leetcode.svg" alt="SaadFareed" height="30" width="40" /></a>
+<a href="https://dev.to/saadfareed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="SaadFareed" height="30" width="40" /></a>-->
+<a href="https://twitter.com/SaadFar80645693" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="SaadFareed" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/saad-fareed/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="SaadFareed" height="30" width="40" /></a>
+<!-- <a href="https://stackoverflow.com/users/16696790/saadfareed" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="SaadFareed" height="30" width="40" /></a> -->
+<a href="https://www.instagram.com/saadfareed_sadi/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="SaadFareed" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCB5JukXadSvscRtCI0JfGmw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@2.17.0/icons/youtube.svg" alt="SaadFareed" height="30" width="40" /></a>
+<!-- <a href="https://www.kaggle.com/saadfareed/Home?isEditing=False" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@2.17.0/icons/kaggle.svg" alt="SaadFareed" height="30" width="40" /></a>  -->
+</p>
+<br>
+<h2 align="center"> Contribution Graph: </h2>
+
+[![Saad's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Muhammadammar13&theme=xcode)](https://github.com/Muhammadammar13)
+
+<h2 align="center"><i>⚙ GitHub Analytics:</i></h2>
+<p align="center">
+  <a href="https://github.com/Muhammadammar13"><span>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muhammadammar13&count_private=true&show_icons=true&theme=radical&&include_all_commits=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Muhammadammar13&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=radical"/>
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhammadammar13&theme=dracula" />
+    </span></a>
 </p>
 
-## Hola! Rashid Wassan here! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
-- ✍🏻 I'm a passionate developer and content writer on [Medium](https://rashidwassan.medium.com).
-- 🔭 I’m currently working on Flutter & Python.
-- 🌱 I’m currently learning more about DevOps & AWS.
-- 👯 I’m looking to collaborate on [Youtube](https://www.youtube.com/c/RashidsTechStuff) & GDSC.
-- 🤔 I’m looking for help in growing my [Twitter](https://twitter.com/rashidwassaan) and [YouTube](https://www.youtube.com/c/RashidsTechStuff) reach.
-- 💬 Ask me about Flutter or any tech related stuff.
-- 📫 How to reach me: [Twitter - @rashidwassaan](https://twitter.com/rashidwassaan).
-- ⚡ Fun fact: I am a Mac gamer🙃.
-
-
-![](https://komarev.com/ghpvc/?username=rashidwassan&color=blueviolet&label=Profile+Views)
-[![Medium](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/medium.svg)](https://medium.com/@rashidwassan) 
-*Languages and Tools:*  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code> 
-
-<hr>
-
 <p align="center">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=rashidwassan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E" />
-  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=rashidwassan&theme=gotham&hide_border=true&fire=C77800&ring=DD910B&background=1F222E" />
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammadammar13&theme=radical&show_icons=true&locale=en&layout=demo&hide_border=true" />
 </p>
-
-  <div  align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div>
+<br/>
+<h2 align="center">🏆 GitHub Profile Trophy:</h2>
+<p align="center">
+<a href="https://github.com/Muhammadammar13">
+  <img width=600 src="https://github-profile-trophy.vercel.app/?username=Muhammadammar13&theme=discord"/>
+</a>
+</p>
 <hr>
-
-<div align="center">
-  
-  div align="center">
-  
-  
-<a href="https://rashidwassan.github.io/"><img alt="Rashid's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rashidwassan&theme=react-dark&hide_border=true&area=true" /></a>
-  ### Show some ❤️ by starring some of the repositories!
-
-</div>
+<h2 align>Spotify Playing 🎧</h2>
+    
+![Spotify](https://novatorem.vercel.app/api/spotify)
